@@ -7,17 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwaltikhe1&label=Profile%20views&color=0e75b6&style=flat" alt="prajwaltikhe1" /> </p>
 
-- 🔭 I’m currently working on **Cultivist 2.0**
+- 🔭 I’m currently working with **Animaks Creative Studios**
 
-- 🌱 I’m currently learning **Next JS, Socket.io, Angular JS**
+- 🌱 I’m currently learning **Photoshop, Illustrator, Next JS, Socket.io, Angular JS**
 
 - 👨‍💻 All of my projects are available at my <strong>[Portfolio](https://prajwaltikheportfolio.web.app)</strong>
 
-- 💬 Ask me about **React JS, Node JS, TypeScript, JavaScript, Redux, MERN**
+- 💬 Ask me about **Web Design, React JS, Node JS, TypeScript, JavaScript, Redux, MERN**
 
 - 📫 How to reach me **prajwaltikhe10@gmail.com**
 
-- 📄 Know more about my experiences through my <strong>[Resume](https://drive.google.com/file/d/1Jtn9unhBNrk8K5C485GzkCS6Vi-5YyXQ/view?usp=sharing)</strong>
+- 📄 Know more about my experiences through my <strong>[Resume](https://drive.google.com/file/d/1fE6qJhwaJRcJrW1uFQBYOSMHaF-vqEM_/view)</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
