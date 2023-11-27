@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my projects are available at my <strong>[Portfolio](https://prajwaltikheportfolio.web.app)</strong>
 
-- 💬 Ask me about **Eccomerce, UI UX Design, MERN Web Development, AI**
+- 💬 Ask me about **Eccomerce, UI UX Design, MERN Web Development, Artificial Intelligence, Open Source Contribution**
 
 - 📫 How to reach me **mr.prajwaltikhe@gmail.com**
 
